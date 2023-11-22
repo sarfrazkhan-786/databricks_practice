@@ -18,7 +18,7 @@
 					"notebookPath": "/Repos/mail.sarfarazkhan@rediffmail.com/databricks_practice/get_sheetname_from_xls_to_ADF",
 					"baseParameters": {
 						"input": {
-							"value": "'https://databrickssessionstorage.blob.core.windows.net/databricksparkassignment/Input/Customer_Sheets.xlsx'",
+							"value": "https://databrickssessionstorage.blob.core.windows.net/databricksparkassignment/Input/Customer_Sheets.xlsx",
 							"type": "Expression"
 						}
 					}
