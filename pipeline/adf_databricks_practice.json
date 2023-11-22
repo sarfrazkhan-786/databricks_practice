@@ -18,7 +18,7 @@
 					"notebookPath": "/Repos/mail.sarfarazkhan@rediffmail.com/databricks_practice/pass_parameter_ADF",
 					"baseParameters": {
 						"input": {
-							"value": "\"https://databrickssessionstorage.blob.core.windows.net/databricksparkassignment/Sample.csv\"",
+							"value": "https://databrickssessionstorage.blob.core.windows.net/databricksparkassignment/Sample.csv",
 							"type": "Expression"
 						}
 					}
