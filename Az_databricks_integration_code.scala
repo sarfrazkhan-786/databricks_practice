@@ -5,10 +5,10 @@ val sas="?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-11-21T05:10:09Z
 val url="wasbs://" + containerName + "@" + storageName + ".blob.core.windows.net/"
 val config="fs.azure.sas." + containerName + "." + storageName + ".blob.core.windows.net"
 
-dbutils.fs.mount(
+/*dbutils.fs.mount(
   source=url,
   mountPoint="/mnt/staging",
-  extraConfigs=Map(config -> sas))
+  extraConfigs=Map(config -> sas))*/
 
 // COMMAND ----------
 
