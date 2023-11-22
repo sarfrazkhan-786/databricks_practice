@@ -1,0 +1,9 @@
+{
+	"name": "ADFdatabrciksintegration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f571cca-0798-4fc9-8f19-0e6c02ac521d",
+		"tenantId": "9faee07c-6ba7-46a6-9de5-a444de108575"
+	}
+}
