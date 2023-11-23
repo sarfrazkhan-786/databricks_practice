@@ -26,6 +26,7 @@ print(y)
 ref=pd.ExcelFile(y)
 sheet_names=ref.sheetnames
 dbutils.notebook.exit(sheet_names)
+print('Sheet Names are:' + sheet_names)
 
 # COMMAND ----------
 
